@@ -100,38 +100,15 @@ Run the program:
 
 
 
-**Example Run:**
+**SampleOutput:**
+
+Here is a screenshot of the program's output:
+
+![Sample Output](./screenshots/output.png)
 
 
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* Simple Calculator \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-1\. Addition.
-
-2\. Subtraction.
-
-3\. Multiplication.
-
-4\. Division.
-
-**Enter your choice:** 1
-
-**Enter the first element:** 10
-
-**Enter the second element:** 20
-
-**The Result is (ADD):** 30.0
-
-
-
-**Enter your choice:** 4
-
-**Enter the first element:** 15
-
-**Enter the second element:** 0
-
-**Error!! Division by zero**
-
+ 
 
 
 
